@@ -1,2 +1,2 @@
 # To-Do-List
-Um simples gerenciamento de tarefas feito em Javascript
+Um simples App de gerenciamento de tarefas feito em Javascript
